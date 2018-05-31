@@ -103,7 +103,7 @@ public class MockitoTests {
 		osw.close();
 	}
 	
-/*
+
 	@Test
 	public void MockOutputStreamWriterClosesOutputStreamOnClose()
 			throws IOException{
@@ -112,5 +112,5 @@ public class MockitoTests {
 		osw.close();
 		verify(mock).close();
 	}
-*/
+
 }
